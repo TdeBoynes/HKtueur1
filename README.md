@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Here you can have a look at some of my project :
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HKtueur1&repo=Epytodo&theme=radical&hide_border=false)](https://github.com/HKtueur1/Epytodo)
