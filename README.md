@@ -1,6 +1,7 @@
 # Welcome to my profile page !
 
 My name is Timothée de Boynes.
+
 Currently studying at [@Epitech](https://www.epitech.eu/) I am a member of [@PoCInnovation](https://github.com/PoCInnovation)
 
 
