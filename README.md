@@ -6,7 +6,7 @@ Currently studying at [@Epitech](https://www.epitech.eu/) and I am a member of [
 
 
 - 🌱 I’m learning C, C++, Java, C#
-- 📫 How to reach me: [gmail]: mailto:RedGinor@gmail.com
+- 📫 How to reach me: timothee.de-boynes@epitech.eu
 
 ## Here you can have a look at some of my project :
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HKtueur1&repo=Epytodo&theme=radical&hide_border=false)](https://github.com/HKtueur1/Epytodo)
